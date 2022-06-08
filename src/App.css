@@ -1,0 +1,92 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Play', sans-serif;
+  
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* .container {
+   background: rgb(252,142,70);
+background: radial-gradient(circle, rgba(252,142,70,1) 0%, rgba(252,70,144,1) 100%); 
+width: 100%;
+height: 100vh;
+align-items: center;
+text-align: center;
+padding: 5%;
+overflow: auto;
+color: #fff;
+}
+h5 {
+  padding-top: 1%;
+}
+.right{
+  margin-top: 5%;
+  background: rgb(252,142,70);
+  color: #fff;
+  padding: 0.3rem 1.5rem 0.3rem 1.5rem;
+  border: 1.5px solid #fff;
+  border-radius: 5px;
+  float: right;
+}
+.left{
+  margin-top: 5%;
+  background: rgb(252,142,70);
+  color: #fff;
+  padding: 0.3rem 1.5rem 0.3rem 1.5rem;
+  border: 1.5px solid #fff;
+  border-radius: 5px;
+  float: left;
+}
+.chapter,.verse{
+  margin-top: 5%;
+  margin-right: 2%;
+  background: #fff;
+  color: rgb(252,142,70);
+  padding: 0.3rem 1.5rem 0.3rem 1.5rem;
+  border: 1.5px solid #fff;
+  border-radius: 5px;
+  outline: none;
+  position: relative;
+}
+.search{
+  margin-top: 5%;
+  background: rgb(252,142,70);
+  color: #fff;
+  padding: 0.3rem 1.5rem 0.3rem 1.5rem;
+  border: 1.5px solid #fff;
+  border-radius: 5px;
+  position: relative;
+}
+@media screen and (max-width: 600px) {
+  .chapter,.verse{
+    margin-top: 5%;
+    background: #fff;
+    color: rgb(252,142,70);
+    padding: 0.3rem 1.5rem 0.3rem 1.5rem;
+    border: 1.5px solid #fff;
+    border-radius: 5px;
+    outline: none;
+    position: relative;
+    width: 100%;
+  }
+  .search{
+    margin-top: 5%;
+    background: rgb(252,142,70);
+    color: #fff;
+    padding: 0.3rem 1.5rem 0.3rem 1.5rem;
+    border: 1.5px solid #fff;
+    border-radius: 5px;
+    position: relative;
+  }
+}
+.chapters {
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background: radial-gradient(circle, rgba(252,142,70,1) 0%, rgba(252,70,144,1) 100%); 
+  overflow: auto;
+  padding-bottom: 2%;
+} */
